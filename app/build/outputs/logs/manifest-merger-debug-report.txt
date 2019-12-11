@@ -1,24 +1,36 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-192:12
-INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-192:12
-INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-192:12
-INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-192:12
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-132:12
+INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-132:12
+INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-132:12
+INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-132:12
 MERGED from [com.google.ar:core:1.10.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\af874ea8f657e4642dbd8fe056cc30f8\AndroidManifest.xml:17:1-46:12
-INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-192:12
-INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-192:12
-INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-192:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\ab75613dc96f16040dffe714d2fa0456\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\b0444e168d51f8f82109448de11fae42\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\bf8737cd04c892505f8926e8211b5eaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\06e72e0244cc6046e512e7a8f5e6b8d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\64ae4f4a331ec1aa8ea11e0b0299d2ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\bfcf669df0d01753c4f8c7ec2ade91e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\87ef553b5a7432b535bc7d7e8c2621df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\503c22dc76334bc1df6e35de7b7f616f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\d6df72b0416d09d683ef9058fee03b76\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\fd6b79a99929ff8ddcb2e17d9bcf47e0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\a41bc5d8d39c83ca22550b3eba13ddf8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\1aa15677397d4dbb8e5d0ea800a46fc8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-132:12
+INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-132:12
+INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-132:12
 	package
 		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-192:12
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-132:12
 		INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-192:12
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:1-132:12
 		INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:2:11-69
@@ -27,197 +39,227 @@ ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\mai
 	android:glEsVersion
 		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:5:19-51
 uses-feature#android.hardware.camera
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:21:5-60
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:20:5-60
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:21:19-57
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:20:19-57
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:26:5-65
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:21:5-65
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:26:22-62
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:21:22-62
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:31:5-66
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:22:5-67
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:31:22-64
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:22:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:37:5-79
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:27:5-79
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:37:22-76
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:27:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:39:5-79
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:28:5-80
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:39:22-77
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:28:22-77
 application
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:51:5-190:19
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:30:5-130:19
 MERGED from [com.google.ar:core:1.10.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\af874ea8f657e4642dbd8fe056cc30f8\AndroidManifest.xml:30:5-44:19
 MERGED from [com.google.ar:core:1.10.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\af874ea8f657e4642dbd8fe056cc30f8\AndroidManifest.xml:30:5-44:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\b0444e168d51f8f82109448de11fae42\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\b0444e168d51f8f82109448de11fae42\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:58:9-36
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:36:9-36
 	android:label
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:53:9-41
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:34:9-41
 	android:launchMode
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:55:9-40
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:35:9-40
 	android:icon
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:52:9-38
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:33:9-38
 	android:allowBackup
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:56:9-35
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:31:9-35
 	android:description
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:54:9-54
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:32:9-54
 	android:theme
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:57:9-47
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:37:9-47
+activity#com.vuforia.engine.CoreSamples.ui.ActivityList.MainActivity
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:38:9-75
+	android:name
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:38:19-63
 meta-data#com.google.ar.core
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:62:9-81
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:40:9-42:40
 	android:value
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:62:54-78
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:62:20-53
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:41:13-46
 activity#com.vuforia.engine.CoreSamples.ui.ActivityList.ActivitySplashScreen
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:80:10-91:21
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:58:9-68:20
 	android:screenOrientation
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:83:13-49
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:62:13-49
 	android:noHistory
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:84:13-37
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:61:13-37
 	android:configChanges
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:82:13-93
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:60:13-93
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:81:13-95
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:59:13-65
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:86:13-90:29
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:63:13-67:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:87:17-69
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:64:17-69
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:87:25-66
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:64:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:89:17-77
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:66:17-77
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:89:27-74
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:66:27-74
 activity#com.vuforia.engine.CoreSamples.ui.ActivityList.ActivityLauncher
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:93:9-98:20
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:69:9-72:52
 	android:screenOrientation
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:96:13-49
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:72:13-49
 	android:configChanges
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:95:13-93
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:71:13-93
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:94:13-91
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:70:13-61
 activity#com.vuforia.engine.CoreSamples.ui.ActivityList.AboutScreen
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:100:10-106:20
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:73:9-77:52
 	android:screenOrientation
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:103:13-49
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:77:13-49
 	android:noHistory
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:104:13-37
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:76:13-37
+	android:configChanges
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:75:13-93
+	android:name
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:74:13-56
+activity#com.vuforia.engine.CoreSamples.app.ImageTargets.ImageTargets
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:78:9-82:54
+	android:launchMode
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:81:13-44
+	android:configChanges
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:80:13-93
+	android:theme
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:82:13-51
+	android:name
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:79:13-58
+activity#com.vuforia.engine.CoreSamples.app.ModelTargets.ModelTargets
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:83:9-88:54
+	android:screenOrientation
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:87:13-50
+	android:launchMode
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:86:13-44
+	android:configChanges
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:85:13-93
+	android:theme
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:88:13-51
+	android:name
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:84:13-58
+activity#com.vuforia.engine.CoreSamples.app.GroundPlane.GroundPlane
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:89:9-94:54
+	android:screenOrientation
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:93:13-50
+	android:launchMode
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:92:13-44
+	android:configChanges
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:91:13-93
+	android:theme
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:94:13-51
+	android:name
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:90:13-56
+activity#com.vuforia.engine.CoreSamples.app.VuMark.VuMark
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:95:9-99:54
+	android:launchMode
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:98:13-44
+	android:configChanges
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:97:13-93
+	android:theme
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:99:13-51
+	android:name
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:96:13-46
+activity#com.vuforia.engine.CoreSamples.app.CylinderTargets.CylinderTargets
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:100:9-104:54
+	android:launchMode
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:103:13-44
 	android:configChanges
 		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:102:13-93
-	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:101:13-86
-activity#com.vuforia.engine.CoreSamples.app.ImageTargets.ImageTargets
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:108:9-114:20
-	android:launchMode
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:112:13-44
-	android:configChanges
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:110:13-93
 	android:theme
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:111:13-51
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:104:13-51
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:109:13-88
-activity#com.vuforia.engine.CoreSamples.app.ModelTargets.ModelTargets
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:116:9-123:20
-	android:screenOrientation
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:119:13-50
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:101:13-64
+activity#com.vuforia.engine.CoreSamples.app.VirtualButtons.VirtualButtons
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:105:9-109:54
 	android:launchMode
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:121:13-44
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:108:13-44
 	android:configChanges
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:118:13-93
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:107:13-93
 	android:theme
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:120:13-51
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:109:13-51
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:117:13-88
-activity#com.vuforia.engine.CoreSamples.app.GroundPlane.GroundPlane
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:125:9-132:20
-	android:screenOrientation
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:128:13-50
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:106:13-62
+activity#com.vuforia.engine.CoreSamples.app.UserDefinedTargets.UserDefinedTargets
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:110:9-114:54
 	android:launchMode
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:130:13-44
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:113:13-44
+	android:configChanges
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:112:13-93
+	android:theme
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:114:13-51
+	android:name
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:111:13-70
+activity#com.vuforia.engine.CoreSamples.app.MultiTargets.MultiTargets
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:115:9-119:54
+	android:launchMode
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:118:13-44
+	android:configChanges
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:117:13-93
+	android:theme
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:119:13-51
+	android:name
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:116:13-58
+activity#com.vuforia.engine.CoreSamples.app.CloudRecognition.CloudReco
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:120:9-124:54
+	android:launchMode
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:123:13-44
+	android:configChanges
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:122:13-93
+	android:theme
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:124:13-51
+	android:name
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:121:13-59
+activity#com.vuforia.engine.CoreSamples.app.ObjectRecognition.ObjectTargets
+ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:125:9-129:54
+	android:launchMode
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:128:13-44
 	android:configChanges
 		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:127:13-93
 	android:theme
 		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:129:13-51
 	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:126:13-86
-activity#com.vuforia.engine.CoreSamples.app.VuMark.VuMark
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:134:9-140:20
-	android:launchMode
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:138:13-44
-	android:configChanges
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:136:13-93
-	android:theme
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:137:13-51
-	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:135:13-76
-activity#com.vuforia.engine.CoreSamples.app.CylinderTargets.CylinderTargets
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:142:9-148:20
-	android:launchMode
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:146:13-44
-	android:configChanges
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:144:13-93
-	android:theme
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:145:13-51
-	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:143:13-94
-activity#com.vuforia.engine.CoreSamples.app.VirtualButtons.VirtualButtons
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:150:9-156:20
-	android:launchMode
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:154:13-44
-	android:configChanges
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:152:13-93
-	android:theme
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:153:13-51
-	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:151:13-92
-activity#com.vuforia.engine.CoreSamples.app.UserDefinedTargets.UserDefinedTargets
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:158:9-164:20
-	android:launchMode
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:162:13-44
-	android:configChanges
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:160:13-93
-	android:theme
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:161:13-51
-	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:159:13-100
-activity#com.vuforia.engine.CoreSamples.app.MultiTargets.MultiTargets
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:166:9-172:20
-	android:launchMode
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:170:13-44
-	android:configChanges
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:168:13-93
-	android:theme
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:169:13-51
-	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:167:13-88
-activity#com.vuforia.engine.CoreSamples.app.CloudRecognition.CloudReco
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:174:9-180:20
-	android:launchMode
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:178:13-44
-	android:configChanges
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:176:13-93
-	android:theme
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:177:13-51
-	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:175:13-89
-activity#com.vuforia.engine.CoreSamples.app.ObjectRecognition.ObjectTargets
-ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:182:9-188:20
-	android:launchMode
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:186:13-44
-	android:configChanges
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:184:13-93
-	android:theme
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:185:13-51
-	android:name
-		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:183:13-94
+		ADDED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml:126:13-64
 uses-sdk
 INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml
 MERGED from [com.google.ar:core:1.10.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\af874ea8f657e4642dbd8fe056cc30f8\AndroidManifest.xml:26:5-28:41
 MERGED from [com.google.ar:core:1.10.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\af874ea8f657e4642dbd8fe056cc30f8\AndroidManifest.xml:26:5-28:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\ab75613dc96f16040dffe714d2fa0456\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\ab75613dc96f16040dffe714d2fa0456\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\b0444e168d51f8f82109448de11fae42\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\b0444e168d51f8f82109448de11fae42\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\bf8737cd04c892505f8926e8211b5eaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\bf8737cd04c892505f8926e8211b5eaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\06e72e0244cc6046e512e7a8f5e6b8d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\06e72e0244cc6046e512e7a8f5e6b8d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\64ae4f4a331ec1aa8ea11e0b0299d2ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\64ae4f4a331ec1aa8ea11e0b0299d2ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\bfcf669df0d01753c4f8c7ec2ade91e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\bfcf669df0d01753c4f8c7ec2ade91e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\87ef553b5a7432b535bc7d7e8c2621df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\87ef553b5a7432b535bc7d7e8c2621df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\503c22dc76334bc1df6e35de7b7f616f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\503c22dc76334bc1df6e35de7b7f616f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\d6df72b0416d09d683ef9058fee03b76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\d6df72b0416d09d683ef9058fee03b76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\fd6b79a99929ff8ddcb2e17d9bcf47e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\fd6b79a99929ff8ddcb2e17d9bcf47e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\a41bc5d8d39c83ca22550b3eba13ddf8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\a41bc5d8d39c83ca22550b3eba13ddf8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\1aa15677397d4dbb8e5d0ea800a46fc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\wassw\.gradle\caches\transforms-2\files-2.1\1aa15677397d4dbb8e5d0ea800a46fc8\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

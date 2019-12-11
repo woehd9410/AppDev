@@ -35,7 +35,7 @@
 
     <string name="button_OK">OK</string>
     <string name="button_continue">Continue</string>
-    
+
     <string name="UPDATE_ERROR_AUTHORIZATION_FAILED_TITLE">Authorization Error</string>
     <string name="UPDATE_ERROR_PROJECT_SUSPENDED_TITLE">Authorization Error</string>
     <string name="UPDATE_ERROR_NO_NETWORK_CONNECTION_TITLE">Network Unavailable</string>
@@ -54,7 +54,7 @@
     <string name="UPDATE_ERROR_REQUEST_TIMEOUT_DESC">The network request has timed out, please check your internet connection and try again.</string>
     <string name="UPDATE_ERROR_BAD_FRAME_QUALITY_DESC">The camera does not have enough detail, please try again later.</string>
     <string name="UPDATE_ERROR_UNKNOWN_DESC">The service is unavaiable, please try again later.</string>
-    
+
     <string name="INIT_ERROR">Error</string>
     <string name="INIT_ERROR_DEVICE_NOT_SUPPORTED">Failed to initialize Vuforia Engine. This device is not supported.</string>
     <string name="INIT_ERROR_NO_CAMERA_ACCESS">Failed to initialize Vuforia Engine. Camera not accessible</string>
@@ -68,11 +68,11 @@
     <string name="INIT_LICENSE_ERROR_UNKNOWN_ERROR">Failed to initialize Vuforia Engine.</string>
     <string name="INIT_OBJECT_DATASET_NOT_FOUND_TITLE">Database not found</string>
     <string name="INIT_OBJECT_DATASET_NOT_FOUND">Please scan an object and load a database</string>
-    
+
     <string name="content_desc_camera_button">Camera Button</string>
     <string name="target_quality_error_title">Low Quality Image</string>
     <string name="target_quality_error_desc">The image has very little detail, please try another.</string>
-    
+
     <string name="menu_back">Vuforia Engine Samples</string>
     <string name="menu_device_tracker">Device Tracker</string>
     <string name="menu_flash">Flash</string>
@@ -92,7 +92,7 @@
     <string name="menu_button_yellow">Yellow</string>
     <string name="menu_button_green">Green</string>
     <string name="menu_next_guide_view">Next Guide View</string>
-        
+
     <string name="splash_screen_description">Vuforia Engine Splash</string>
-    
+
 </resources>

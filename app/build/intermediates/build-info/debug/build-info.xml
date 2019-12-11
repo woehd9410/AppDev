@@ -2,30 +2,32 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="28"
-    build-mode="COLD"
+    build-mode="FULL"
     density="xxhdpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.4.1"
-    timestamp="1575951798007"
+    timestamp="1575982770912"
     token="6838014439128613704"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1398" />
+        duration="31765" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="41" />
+        duration="1767" />
     <task
         name="verifier"
-        duration="71" />
+        duration="14389" />
 
     <artifact
-        location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -34,15 +36,36 @@
         location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
+        location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
         location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
+    <artifact
+        location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\instant-run-apk\debug\VuforiaSamples-8-5-8-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1575950531703"
+        timestamp="1575982770912"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
@@ -51,25 +74,25 @@
             location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -83,27 +106,6 @@
         <artifact
             location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\instant-run-apk\debug\VuforiaSamples-8-5-8-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1575951798007"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\wassw\AndroidStudioProjects\VuforiaSamples-8-5-8\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
     </build>
 
 </instant-run>

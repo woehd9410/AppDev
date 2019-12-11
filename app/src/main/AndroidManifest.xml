@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.vuforia.engine.CoreSamples" >
+    package="com.vuforia.engine.CoreSamples">
 
     <uses-feature android:glEsVersion="0x00020000" />
-
     <!--
          The application requires a camera.
 
@@ -18,51 +17,30 @@
          other camera features that you do not request will no longer be
          assumed as required.
     -->
-    <uses-feature android:name="android.hardware.camera" />
-    
-    <!--
-        Add this permission to get access to the camera.
-    -->
-    <uses-permission android:name="android.permission.CAMERA" />
-
-    <!--
-        Add this permission to allow opening network sockets.
-    -->
-    <uses-permission android:name="android.permission.INTERNET"/>
-
+    <uses-feature android:name="android.hardware.camera" /> <!-- Add this permission to get access to the camera. -->
+    <uses-permission android:name="android.permission.CAMERA" /> <!-- Add this permission to allow opening network sockets. -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <!--
         Add this permission to check which network access properties (e.g.
         active type: 3G/WiFi).
-     -->
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-
-    <!--
-      NOTE: The setting 'android:launchMode="singleTask"' makes sure
-      that the activity can begin only one task and the device can hold only
-      one instance of the activity at a time. However, it allows other
-      activities to be part of its task (unlike the 'singleInstance' mode).
-      It's at the root of the activity stack, but other activities (necessarily
-      "standard" and "singleTop" activities) can be launched into the same task.
-      If this attribute is not set, the default value 'standard' is used, which
-      would allow the activity to be launched multiple times.
     -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
+        android:allowBackup="true"
+        android:description="@string/app_description"
         android:icon="@drawable/icon"
         android:label="@string/app_name"
-        android:description="@string/app_description"
         android:launchMode="singleTask"
-        android:allowBackup="true"
-        android:theme="@style/SampleAppsTheme"
         android:supportsRtl="false"
-        >
-
+        android:theme="@style/SampleAppsTheme">
+        <activity android:name=".ui.ActivityList.MainActivity"></activity>
         <!-- The following must be present to facilitate use of ARCore, if available -->
-        <meta-data android:name="com.google.ar.core" android:value="optional" />
-        
-
-         <!--
+        <meta-data
+            android:name="com.google.ar.core"
+            android:value="optional" />
+        <!--
           NOTE: The values in 'android:configChanges' ensure that Android will 
           not destroy and re-create the activity when the user flips the 
           keyboard, changes the orientation of the device, or the actual or 
@@ -77,116 +55,78 @@
           Activity.setRequestedOrientation().
         -->
         <!-- Splash Screen Activity -->
-         <activity
-            android:name="com.vuforia.engine.CoreSamples.ui.ActivityList.ActivitySplashScreen"
+        <activity
+            android:name=".ui.ActivityList.ActivitySplashScreen"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:screenOrientation="portrait"
             android:noHistory="true"
-            >
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-         </activity>
-        
-        <activity
-            android:name="com.vuforia.engine.CoreSamples.ui.ActivityList.ActivityLauncher"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:screenOrientation="portrait"
-            >
         </activity>
-        
-         <activity
-            android:name="com.vuforia.engine.CoreSamples.ui.ActivityList.AboutScreen"
+        <activity
+            android:name=".ui.ActivityList.ActivityLauncher"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:screenOrientation="portrait"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.ActivityList.AboutScreen"
+            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
             android:noHistory="true"
-            >
-        </activity>
-         
+            android:screenOrientation="portrait" />
         <activity
-            android:name="com.vuforia.engine.CoreSamples.app.ImageTargets.ImageTargets"
+            android:name=".app.ImageTargets.ImageTargets"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:theme="@style/SampleAppsTheme"
             android:launchMode="singleTask"
-            >
-        </activity>
-
+            android:theme="@style/SampleAppsTheme" />
         <activity
-            android:name="com.vuforia.engine.CoreSamples.app.ModelTargets.ModelTargets"
+            android:name=".app.ModelTargets.ModelTargets"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
+            android:launchMode="singleTask"
             android:screenOrientation="landscape"
-            android:theme="@style/SampleAppsTheme"
-            android:launchMode="singleTask"
-            >
-        </activity>
-
+            android:theme="@style/SampleAppsTheme" />
         <activity
-            android:name="com.vuforia.engine.CoreSamples.app.GroundPlane.GroundPlane"
+            android:name=".app.GroundPlane.GroundPlane"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
+            android:launchMode="singleTask"
             android:screenOrientation="landscape"
-            android:theme="@style/SampleAppsTheme"
-            android:launchMode="singleTask"
-            >
-        </activity>
-
+            android:theme="@style/SampleAppsTheme" />
         <activity
-            android:name="com.vuforia.engine.CoreSamples.app.VuMark.VuMark"
+            android:name=".app.VuMark.VuMark"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:theme="@style/SampleAppsTheme"
             android:launchMode="singleTask"
-            >
-        </activity>
-
+            android:theme="@style/SampleAppsTheme" />
         <activity
-            android:name="com.vuforia.engine.CoreSamples.app.CylinderTargets.CylinderTargets"
+            android:name=".app.CylinderTargets.CylinderTargets"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:theme="@style/SampleAppsTheme"
             android:launchMode="singleTask"
-            >
-        </activity>
-
+            android:theme="@style/SampleAppsTheme" />
         <activity
-            android:name="com.vuforia.engine.CoreSamples.app.VirtualButtons.VirtualButtons"
+            android:name=".app.VirtualButtons.VirtualButtons"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:theme="@style/SampleAppsTheme"
             android:launchMode="singleTask"
-            >
-        </activity>
-        
+            android:theme="@style/SampleAppsTheme" />
         <activity
-            android:name="com.vuforia.engine.CoreSamples.app.UserDefinedTargets.UserDefinedTargets"
+            android:name=".app.UserDefinedTargets.UserDefinedTargets"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:theme="@style/SampleAppsTheme"
             android:launchMode="singleTask"
-            >
-        </activity>
-                
+            android:theme="@style/SampleAppsTheme" />
         <activity
-            android:name="com.vuforia.engine.CoreSamples.app.MultiTargets.MultiTargets"
+            android:name=".app.MultiTargets.MultiTargets"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:theme="@style/SampleAppsTheme"
             android:launchMode="singleTask"
-            >
-        </activity>
-        
+            android:theme="@style/SampleAppsTheme" />
         <activity
-            android:name="com.vuforia.engine.CoreSamples.app.CloudRecognition.CloudReco"
+            android:name=".app.CloudRecognition.CloudReco"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:theme="@style/SampleAppsTheme"
             android:launchMode="singleTask"
-            >
-        </activity>
-         
+            android:theme="@style/SampleAppsTheme" />
         <activity
-            android:name="com.vuforia.engine.CoreSamples.app.ObjectRecognition.ObjectTargets"
+            android:name=".app.ObjectRecognition.ObjectTargets"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:theme="@style/SampleAppsTheme"
             android:launchMode="singleTask"
-            >
-        </activity>
-         
+            android:theme="@style/SampleAppsTheme" />
     </application>
 
 </manifest>
